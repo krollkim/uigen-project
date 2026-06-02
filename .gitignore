@@ -1,0 +1,10 @@
+# Playwright MCP session artifacts (browser screenshots, snapshots, console logs)
+.playwright-mcp/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+Thumbs.db
+.DS_Store
